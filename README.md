@@ -6,7 +6,7 @@ It's a website that has been designed to mimic the exact UI of the popular chat 
 <br>
 <br>
 
-## **Live Site URL:** <a href="https://discordclone-ayush/">**Visit Now** 🚀</a>
+## **Live Site URL:** <a href="https://discordclone-ayush.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
