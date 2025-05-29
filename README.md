@@ -21,5 +21,5 @@ It's a website that has been designed to mimic the exact UI of the popular chat 
 ## 📬 Connect With Me
 
 - **LinkedIn** - [ayushporwal1](https://www.linkedin.com/in/ayushporwal1/)
-- **Github** - [ayushporwal01](https://twitter.com/ayushporwal01)
+- **Github** - [ayushporwal01](https://github.com/ayushporwal01)
 
