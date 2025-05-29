@@ -1,6 +1,6 @@
 ## ⭐ Discord Clone ⭐
 
-It's a website that has been designed to mimic the design of the popular chat and voice communication platform, Discord.
+It's a website that has been designed to mimic the exact UI of the popular chat and voice communication platform, Discord.
 
 - **This Site is Fully Responsive**
 <br>
